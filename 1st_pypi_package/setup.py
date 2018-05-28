@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
   name = 'cat_n_dog_love_story',
-  packages = ['mypackage'], # this must be the same as the name above
+  packages = ['cat_n_dog_love_story'], # this must be the same as the name above
   version = '0.1',
   description = 'This package only records what cato y perro love story',
   author = 'Emrys-Hong',
